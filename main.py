@@ -1,3 +1,3 @@
-import Functions as Func
+import functions as crawler
 
-Func.web_crawler("https://www.cheatcc.com", 1)
+crawler.crawl("https://www.cheatcc.com", 1)
