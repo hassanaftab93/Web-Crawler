@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def web_crawler(url_input, max_urls):
+def crawl(url_input, max_urls):
     urln = 1
     while urln <= max_urls:
         url = url_input
