@@ -1,19 +1,19 @@
 
-# Project Name
+# Web Crawler
 
 [![Deploy to Heroku](https://github.com/hassanaftab93/general-project-template/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/hassanaftab93/general-project-template/actions/workflows/main.yml)
 
-## SubTopic
+## How it Works
 
-Subtopic Details
+Basic Idea of this python bot is to extract all URLs present on a website.
 
 
 ## Steps
 
-Steps
+Run the File
 
 ```bash
-  commands / code
+  sh webcrawl.sh
 ```
 ## Contributing
 
