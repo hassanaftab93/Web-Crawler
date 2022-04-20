@@ -1,14 +1,35 @@
 
 # Web Crawler
 
-[![Deploy to Heroku](https://github.com/hassanaftab93/general-project-template/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/hassanaftab93/general-project-template/actions/workflows/main.yml)
-
 ## How it Works
 
 Basic Idea of this python bot is to extract all URLs present on a website.
 
 
 ## Steps
+
+Clone this Repo
+
+```bash
+git clone https://github.com/hassanaftab93/Web-Crawler.git
+```
+
+Create a Virtual Environment for this Project
+
+```bash
+python -m venv venv
+```
+
+Activate Virtual Environment for this Project
+
+Windows:
+```bash
+source venv/Scripts/activate
+```
+Linux:
+```bash
+./.venv/bin/activate
+```
 
 Install the Required Libraries
 
