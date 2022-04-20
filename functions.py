@@ -2,6 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 
 
+
+def writeToFile(url_input):
+    file = open("output.txt", "a")
+    file.write("\n")
+    file.write(url_input)
+    file.close()
+
 def crawl(url_input, max_urls):
     urln = 1
     while urln <= max_urls:
@@ -12,4 +19,5 @@ def crawl(url_input, max_urls):
         for link in soup.select('a'):
             href = link.get('href')
             print(href)
+            writeToFile(href)
         urln += 1
