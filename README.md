@@ -28,7 +28,7 @@ source venv/Scripts/activate
 ```
 Linux:
 ```bash
-./.venv/bin/activate
+source ./venv/bin/activate
 ```
 
 Install the Required Libraries
