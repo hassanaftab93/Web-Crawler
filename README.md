@@ -10,6 +10,12 @@ Basic Idea of this python bot is to extract all URLs present on a website.
 
 ## Steps
 
+Install the Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
 Run the File
 
 ```bash
