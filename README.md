@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Run the File
 
 ```bash
-  sh webcrawl.sh
+  sh crawl.sh
 ```
 ## Contributing
 
