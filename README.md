@@ -1,6 +1,9 @@
 
 # Web Crawler
 
+[![Python application](https://github.com/hassanaftab93/Web-Crawler/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/hassanaftab93/Web-Crawler/actions/workflows/main.yml)
+[![CodeQL](https://github.com/hassanaftab93/Web-Crawler/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/hassanaftab93/Web-Crawler/actions/workflows/codeql-analysis.yml)
+
 ## How it Works
 
 Basic Idea of this python bot is to extract all URLs present on a website.
